@@ -20,3 +20,9 @@ h4 {
 .bold header {
  font-weight: bold;
 }
+.h2 centre {
+  text-align: center;
+}
+.larger {
+  font-size: 22px;
+}
