@@ -1,4 +1,4 @@
-# {Elizabeth Wanjiku Kimita}
+# {My Portfolio Website}
 #### {This is my portfolio landing page. I have listed details about me, my experience, educational background, skills, hobbies and much more. from here you will get a brief overview of me}, {Friday, Feb 8,2019}
 #### By **{Elizabeth Wanjiku Kimita}**
 ## Description
