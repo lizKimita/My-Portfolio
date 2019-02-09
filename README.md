@@ -12,5 +12,4 @@ This site has been built using HTML to write the content, CSS for styling purpos
 ## Support and contact details
 For more information or questions, get in touch with me on +254726047102 or email: kimita.wanjiku@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **Contributors: Elizabeth Wanjiku Kimita**
+MIT (c) lizKimita {2019} **Contributors: Elizabeth Wanjiku Kimita**
