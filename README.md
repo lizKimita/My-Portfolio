@@ -6,7 +6,7 @@ The purpose of this website is to give a detailed description of myself, my educ
 ## Setup/Installation Requirements
 * This is a website and does not require any installation guidelines, simply click the link below to view the contents displayed.
 ## Link to live site on GitHub pages
-{ }
+https://lizkimita.github.io/My-Portfolio/
 ## Technologies Used
 This site has been built using HTML to write the content, CSS for styling purposes and Markdown for the README page.
 ## Support and contact details
