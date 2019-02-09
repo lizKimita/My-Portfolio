@@ -35,3 +35,7 @@ body {
 .move {
   text-align: center;
 }
+.columns {
+  float: left;
+  column-count: 2;
+}
