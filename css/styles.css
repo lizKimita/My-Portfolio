@@ -39,3 +39,8 @@ body {
   float: left;
   column-count: 2;
 }
+.boxed {
+  border: 2px solid white;
+  padding: 10px;
+  margin: 20px;
+}
